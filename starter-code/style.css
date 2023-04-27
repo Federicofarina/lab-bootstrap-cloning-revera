@@ -1,0 +1,21 @@
+.container{
+    background-color: blue;
+}
+.container-fluid{
+    color: grey;
+    align-items: center;
+
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    color: grey;
+    align-items: center;
+
+}
+
+.navbar-brand{
+    align-items: left;
+}
+
+.col-xl-12{
+    height: 500px;
+}
